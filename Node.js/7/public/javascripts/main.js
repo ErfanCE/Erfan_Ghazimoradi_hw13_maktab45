@@ -1,0 +1,5 @@
+phonesData.forEach(phone => {
+    let card = `<div class="mt-3 col-12 col-md-6 col-lg-4"><div class="card"> <img src="${phone.picture}" class="card-img-top" alt=""><div class="card-body"><h5 class="card-title">${phone.phoneName}</h5><p class="card-text"> ${phone.phoneName} is ${phone.brand} new Flagship Phone, ${phone.color} Version of This Phone Start from ${phone.price}$ and Price is Diffrent in Diffrent Regions.</p></div><ul class="list-group list-group-flush"><li class="list-group-item"><b>Brand:</b> ${phone.brand}</li><li class="list-group-item"><b>Color:</b> ${phone.color}</li><li class="list-group-item"><b>Price:</b> ${phone.price}$</li></ul><div class="card-body"> <a href="pages/${phone.brand.toLowerCase()}" class="btn btn-primary">More Detail</a> <a href="" class="btn btn-primary">Buy Phone</a></div></div></div>`;
+
+    $('.row').append(card);
+});

@@ -1,0 +1,43 @@
+
+a {
+    text-decoration: none;
+}
+
+.page {
+    margin: 50px auto;
+    background-color: #ccc;
+}
+
+.modal-btn {
+    display: block;
+    margin: 30px auto;
+}
+
+img {
+    height: 260px;
+    padding: 10px;
+}
+
+.img {
+    width: 120px;
+    height: 120px;
+    border-radius: 100%;
+    display: block;
+    margin: 10px auto;
+    margin-bottom: 0;
+}
+
+.profile {
+    border-bottom: none;
+}
+
+b {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    font-weight: 500;
+    color: #444;
+    letter-spacing: 1px;
+}
+
+label {
+    font-weight: 500;
+}

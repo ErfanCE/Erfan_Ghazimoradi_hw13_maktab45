@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "brand": "Apple",
+        "phoneName": "iPhone 12 Pro Max",
+        "price": "1000",
+        "picture": "images/apple.png",
+        "color": "Blue"
+    },
+    {
+        "id": 2,
+        "brand": "Samsung",
+        "phoneName": "Galaxy S21 Ultra",
+        "price": "1000",
+        "picture": "images/samsung.jpg",
+        "color": "Black"
+    },
+    {
+        "id": 3,
+        "brand": "OnePlus",
+        "phoneName": "OnePlus 8 Pro",
+        "price": "1000",
+        "picture": "images/oneplus.jpg",
+        "color": "Blue"
+    },
+    {
+        "id": 4,
+        "brand": "Xiaomi",
+        "phoneName": "Mi 10 Pro",
+        "price": "1000",
+        "picture": "images/xiaomi.jpg",
+        "color": "Black"
+    },
+    {
+        "id": 5,
+        "brand": "Huawei",
+        "phoneName": "Mate 40 Pro",
+        "price": "1000",
+        "picture": "images/huawei.jpg",
+        "color": "Silver"
+    },
+    {
+        "id": 6,
+        "brand": "Google",
+        "phoneName": "Pixel 5",
+        "price": "1000",
+        "picture": "images/google.jpeg",
+        "color": "Gray"
+    }
+]
